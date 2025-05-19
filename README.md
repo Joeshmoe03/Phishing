@@ -2,7 +2,7 @@
 
 ## Report
 
-Read the report [HERE](StatLearningFinalReport.pdf)
+Read the report [HERE](StatLearningFinalProject.pdf)
 
 ## Data
 
